@@ -1,0 +1,1 @@
+# This repository contains the material developed during the course. "Test Automation with Cypress Intermediate" by the school "Talking About Testing."
